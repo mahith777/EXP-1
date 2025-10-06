@@ -50,15 +50,18 @@ a.   KVL:
 
 b.  KCL:
  
+![WhatsApp Image 2025-10-04 at 19 59 24_37d8d31e](https://github.com/user-attachments/assets/85d75f43-6b8d-426d-a724-07c8a4ab9a89)
 
 Calculation:
 
 a.   KVL:
  
+![WhatsApp Image 2025-10-04 at 19 13 25_e49830f2](https://github.com/user-attachments/assets/81fa3f40-276a-48bc-99d7-df9fc150c190)
 
 
 b.  KCL:
 
+![WhatsApp Image 2025-10-04 at 19 13 05_fd6985da](https://github.com/user-attachments/assets/5c3a84c0-eea2-4e7e-9586-85c53466f63b)
 
 
 
@@ -66,10 +69,12 @@ Tabulation:
 
 a.   KVL:
  
+![WhatsApp Image 2025-10-04 at 19 03 11_40a50f68](https://github.com/user-attachments/assets/d35f82fa-6e76-4b2c-ae91-3f6e1cd5c512)
 
 
 b.  KCL:
 
+![WhatsApp Image 2025-10-04 at 19 13 03_dbc300c2](https://github.com/user-attachments/assets/48f328e0-faa5-4848-9fa0-aaf8cfc16ff9)
 
 
 RESULT:
