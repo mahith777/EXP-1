@@ -1,3 +1,4 @@
+
 # EXP-1
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 AIM
@@ -45,7 +46,7 @@ CIRCUIT DIAGRAM:
 
 a.   KVL:
  
-
+<img width="877" height="427" alt="unit 1 01" src="https://github.com/user-attachments/assets/3e565cad-6c86-4957-bbde-247b52be636b" /> 
 
 b.  KCL:
  
